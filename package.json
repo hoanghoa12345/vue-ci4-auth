@@ -1,0 +1,23 @@
+{
+  "name": "vue-ci4-auth",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "vite preview",
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@ant-design/icons-vue": "^6.0.1",
+    "ant-design-vue": "^3.0.0-alpha.10",
+    "axios": "^0.24.0",
+    "vue": "^3.2.16",
+    "vue-router": "4",
+    "vuex": "4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "@vue/cli-service": "~5.0.0-beta.3",
+    "vite": "^2.6.4",
+    "vite-plugin-components": "^0.13.3"
+  }
+}
